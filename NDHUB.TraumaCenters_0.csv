@@ -1,0 +1,46 @@
+OBJECTID,ID,REGION,LOCAL_ADDR,MAIL_ADDR,CITY,STATE,ZIP_CODE,LATITUDE,LONGITUDE,TRAUMA_LEV,TRAUMA_LEVTEXT,LICENSE_NO,NAME
+1,0,SW,10 N River Road,Po Box J,Fort Yates,ND,58538,46.09515605,-100.62808105,IV,Level IV Trauma Center,5085,Standing Rock Hospital
+2,3,SW,30 West 7th St,30 West 7th St,Dickinson,ND,58601,46.88639727,-102.78582782,IV,Level IV Trauma Center,5054,St. Joseph's Hospital and Health Center
+3,0,SW,1401 10th Ave. West,1401 10th Ave. West,Mobridge,SD,57601,45.54622582,-100.44924016,IV,Level IV Trauma Center,5422,Mobridge Regional Hospital
+4,2,NW,1 Burdick Expressway W,PO Box 5020,Minot,ND,58701,48.23175401,-101.28763503,II,Level II Trauma Center,5055,Trinity Medical Center
+5,4,SW,510 8th Ave NE,510 8th Ave NE,Hazen,ND,58545,47.29815055,-101.61070254,V,Level V Trauma Center,5024,Sakakawea Medical Center
+6,5,SW,220 5th Ave.,Po Box 280,Turtle Lake,ND,58575,47.51799486,-100.8943218,V,Level V Trauma Center,5059,Community Memorial Hospital
+7,0,NW,615 6th St. SE,Po Box 399,Stanley,ND,58784,48.31126204,-102.3804155,V,Level V Trauma Center,5047,Mountrail County Medical Center
+8,4,SW,507 1st ST NW,Po Box 850,Linton,ND,58552,46.27153834,-100.23305756,V,Level V Trauma Center,5030,Linton Hospital
+9,4,NW,407 3rd Ave SE,407 3rd Ave SE,Garrison,ND,58540,47.648932,-101.41043119,IV,Level IV Trauma Center,5019,Garrison Memorial Hospital
+10,4,SW,325 E Brewster,325 E Brewster,Harvey,ND,58341,47.76631294,-99.9321408,V,Level V Trauma Center,5023,St. Aloisius Medical Center
+11,4,NW,316 Ohmer St,316 Ohmer St,Bottineau,ND,58318,48.82909456,-100.4499435,V,Level V Trauma Center,5005,St. Andrews Health Center
+12,4,NW,1 Hospital Road,1 Hospital Rd.,Belcourt,ND,58316,48.84280354,-99.74870144,0,Non Trauma Designated,5083,Quentin N. Burdick Memorial Health Care Facility
+13,4,NW,7448 US Hwy 281 N,Po Box 688,Cando,ND,58324,48.49305207,-99.21117409,V,Level V Trauma Center,5061,Towner County Medical Center
+14,4,NE,115 Vivian St. W,Po Box I,Park River,ND,58270,48.39932559,-97.74421853,V,Level V Trauma Center,5042,First Care Health Center
+15,4,NE,4 N Park St.,PO Box 190,Northwood,ND,58267,47.73485844,-97.57423118,V,Level V Trauma Center,5040,Northwood Deaconess Health Center
+16,0,NW,702 1st St. S,Po Box 10,Crosby,ND,58730,48.90665779,-103.29893738,V,Level V Trauma Center,5011,St. Luke's Hospital
+17,5,NW,810 N Welo St.,Po Box 159,Tioga,ND,58852,48.40278541,-102.93472027,V,Level V Trauma Center,5048,Tioga Medical Center
+18,4,NW,1301 15th Ave W,1301 15th Ave W,Williston,ND,58801,48.1557068,-103.64552504,IV,Level IV Trauma Center,5052,Mercy Medical Center of Williston
+19,0,SW,516 N Main Street,Po Box 548,Watford City,ND,58854,47.80667113,-103.28288811,V,Level V Trauma Center,5051,McKenzie County Memorial Hospital
+20,4,SW,14 6th Ave SW,14 6th Ave SW,Bowman,ND,58623,46.18175727,-103.40453015,IV,Level IV Trauma Center,5006,Southwest Health Care Services
+21,4,SW,1000 Hwy 12,1000 Hwy 12,Hettinger,ND,58639,46.00162551,-102.62852287,IV,Level IV Trauma Center,5025,West River Regional Medical Center
+22,0,NW,317 1st Ave NW,Po Box 697,Kenmare,ND,58746,48.67416285,-102.08446802,V,Level V Trauma Center,5028,Kenmare Community Hospital
+23,0,NW,213 2nd Ave NE,Po Box 759,Rolla,ND,58367,48.86206887,-99.61492962,V,Level V Trauma Center,5045,Presentation Medical Center
+24,0,NE,909 2nd St,909 2nd St.,Langdon,ND,58249,48.76160916,-98.36600016,V,Level V Trauma Center,5029,Cavalier County Memorial Hospital
+25,5,NE,304 Dakota Street E,Po Box 380,Cavalier,ND,58220,48.79283271,-97.61874109,IV,Level IV Trauma Center,5009,Pembina County Memorial Hospital
+26,4,NE,164 W 13th St,164 W 13th St,Grafton,ND,58237,48.41138148,-97.41382083,V,Level V Trauma Center,5020,Unity Medical Center
+27,4,NE,1031 7th St.,1031 7th St,Devils Lake,ND,58301,48.11579976,-98.84930843,V,Level V Trauma Center,5012,Mercy Hospital of Devils Lake
+28,4,NW,800 S Main Ave,800 S Main Ave,Rugby,ND,58368,48.36352473,-99.99754993,V,Level V Trauma Center,5046,Heart Of America Medical Center
+29,0,SE,800 N 4th St,800 N 4th St,Carrington,ND,58421,47.45420905,-99.12322748,V,Level V Trauma Center,5008,Carrington Health Center
+30,0,SE,1200 Roberts Ave NE,1200 Roberts Ave NE,Cooperstown,ND,58425,47.44590077,-98.11855774,V,Level V Trauma Center,5010,Cooperstown Medical Center
+31,0,NE,200 N Main,Po Box 367,McVille,ND,58254,47.76506424,-98.17748095,V,Level V Trauma Center,5035,Nelson County Health System
+32,2,NE,1200 S. Columbia Rd.,Po Box 6002,Grand Forks,ND,58206,47.91066557,-97.0681676,II,Level II Trauma Center,5021,Altru Hospital
+33,0,SE,12 3rd St SE,Po Box 609,Hillsboro,ND,58045,47.40330767,-97.0552607,V,Level V Trauma Center,5026,Hillsboro Medical Center
+34,0,SE,42 6th Ave SE,42 6th Ave SE,Mayville,ND,58257,47.50026383,-97.31677398,V,Level V Trauma Center,5034,Sanford Medical - Union Hospital Mayville
+35,2,SE,3000 32nd Ave S,3000 32nd Ave S,Fargo,ND,58103,46.831674,-96.827832,II,Level II Trauma Center,5067,Essentia Health Hospital
+36,4,SE,570 Chautauqua Blvd,570 Chautauqua Blvd,Valley City,ND,58072,46.9283029,-97.99414891,IV,Level IV Trauma Center,5050,Mercy Hospital of Valley City
+37,4,SE,2422 20th St. SW,2422 20th St. SW,Jamestown,ND,58401,46.89068909,-98.74759111,IV,Level IV Trauma Center,5027,Jamestown Regional Medical Center
+38,2,SW,300 N 7th St,Po Box 5525,Bismarck,ND,58502,46.80746516,-100.7815553,II,Level II Trauma Center,5003,Sanford Health - Bismarck
+39,0,SW,601 East St N,Po Box 367,Elgin,ND,58533,46.40727192,-101.84148515,V,Level V Trauma Center,5014,Jacobson Memorial Hospital Care Center
+40,0,SW,1007 4th Ave S,Po Box 647,Wishek,ND,58495,46.25558801,-99.55150767,V,Level V Trauma Center,5053,Wishek Community Hospital
+41,4,SW,401 3rd Ave N,Po Box 450,Ashley,ND,58413,46.04006965,-99.37232602,V,Level V Trauma Center,5001,Ashley Medical Center
+42,4,SE,1200 N 7th St.,314 S 8th St,Oakes,ND,58474,46.15017049,-98.0892043,V,Level V Trauma Center,5041,Oakes Community Hospital
+43,0,SE,905 Main St,905 Main St,Lisbon,ND,58054,46.43715277,-97.68034581,V,Level V Trauma Center,5031,Lisbon Medical Center
+44,2,SW,900 E Broadway,Po Box 5510,Bismarck,ND,58502,46.80690879,-100.77785168,II,Level II Trauma Center,5004,St. Alexius Medical Center
+45,2,SE,720 N 4th St,720 N 4th St,Fargo,ND,58122,46.88452063,-96.78506564,II,Level II Trauma Center,5018,Sanford Health - Fargo
