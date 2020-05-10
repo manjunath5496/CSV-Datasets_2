@@ -1,0 +1,397 @@
+pollster,# of polls,ncpp / aapor / roper,exclusively live caller with cellphones,methodology,banned by 538,historical advanced plus-minus,predictive    plus-minus,538 grade,mean-reverted bias,races called correctly,misses outside moe,simple average error,simple expected error,simple plus-minus,advanced plus-minus,mean-reverted advanced plus minus,predictive plus-minus,# of polls for bias analysis,bias,mean-reverted bias,house effect
+selzer & co.,43,yes,yes,live,no,-1.9,-1.4,a+,r +0.0,86%,21%,4.2,5.6,-1.4,-1.9,-1.1,-1.4,30,r +0.0,r +0.0,d +0.1
+monmouth university,95,yes,yes,live,no,-1.5,-1.3,a+,d +1.4,80%,17%,5.3,6.2,-0.8,-1.5,-1.1,-1.3,65,d +2.1,d +1.4,r +0.7
+field research corp. (field poll),25,yes,yes,live,no,-2.5,-1.1,a+,r +1.2,100%,16%,3.9,5.7,-1.8,-2.5,-1.1,-1.1,18,r +3.3,r +1.2,d +0.6
+abc news/washington post,60,yes,yes,live,no,-1.3,-1.1,a+,d +0.6,78%,5%,2.9,4.6,-1.8,-1.3,-0.9,-1.1,55,d +0.9,d +0.6,d +1.5
+elway research,21,yes,yes,live,no,-2.2,-1.1,a+,d +0.5,90%,5%,3.9,5.9,-1.9,-2.2,-0.9,-1.1,20,d +1.2,d +0.5,d +3.2
+ciruli associates,17,yes,yes,live,no,-2.1,-1,a+,r +0.7,94%,0%,3.6,5.6,-2,-2.1,-0.7,-1,16,r +2.1,r +0.7,r +2.5
+surveyusa,777,yes,no,ivr/online/live,no,-1.1,-0.9,a,d +0.1,90%,16%,4.6,5.6,-1,-1.1,-1,-0.9,615,d +0.1,d +0.1,r +0.3
+muhlenberg college,26,yes,yes,live,no,-1.3,-0.9,a,r +0.2,83%,8%,3.5,5.3,-1.9,-1.3,-0.6,-0.9,25,r +0.5,r +0.2,d +0.0
+marist college,159,yes,yes,live,no,-0.9,-0.9,a,r +0.5,85%,19%,5.2,6,-0.8,-0.9,-0.7,-0.9,99,r +0.6,r +0.5,d +0.0
+grove insight,29,no,yes,live,no,-2.3,-0.8,a,d +0.5,90%,7%,3.1,5.1,-2,-2.3,-1.1,-0.8,29,d +1.0,d +0.5,d +3.4
+national journal,12,yes,yes,live,no,-2.4,-0.8,a,r +0.2,100%,0%,2.6,5.3,-2.7,-2.4,-0.7,-0.8,12,r +0.6,r +0.2,d +0.3
+public policy institute of california,12,yes,yes,live,no,-2,-0.8,a,r +0.7,100%,8%,4.1,6.2,-2.1,-2,-0.6,-0.8,8,r +3.4,r +0.7,r +1.0
+university of cincinnati (ohio poll),38,yes,yes,live,no,-1,-0.8,a,r +1.5,93%,16%,3.7,5.5,-1.8,-1,-0.6,-0.8,29,r +3.0,r +1.5,r +2.3
+siena college,60,yes,yes,live,no,-0.9,-0.8,a,d +0.1,82%,15%,4.9,5.3,-0.3,-0.9,-0.6,-0.8,56,d +0.1,d +0.1,r +0.7
+fairleigh dickinson university (publicmind),18,yes,yes,live,no,-1.4,-0.7,a,d +0.0,94%,6%,4.1,5.4,-1.3,-1.4,-0.5,-0.7,17,d +0.1,d +0.0,d +3.1
+fox news/anderson robbins research/shaw & co. research,31,yes,yes,live,no,-0.9,-0.7,a,d +0.6,69%,35%,5.6,6,-0.4,-0.9,-0.5,-0.7,16,d +1.8,d +0.6,d +0.9
+marquette university law school,9,yes,yes,live,no,-2.5,-0.7,a,d +0.3,78%,11%,3.3,5.8,-2.5,-2.5,-0.6,-0.7,6,d +1.5,d +0.3,r +0.0
+research & polling inc.,27,no,yes,live,no,-1.7,-0.6,a,r +0.5,85%,7%,4.3,5.6,-1.3,-1.7,-0.8,-0.6,26,r +1.1,r +0.5,r +1.2
+behavior research center (rocky mountain),7,yes,yes,live,no,-2.6,-0.6,a-,d +0.1,71%,0%,3.5,6.5,-3,-2.6,-0.5,-0.6,5,d +0.6,d +0.1,r +2.1
+blum & weprin associates,18,no,yes,live,no,-2.6,-0.6,a-,r +1.0,94%,11%,4.6,5.2,-0.6,-2.6,-1,-0.6,16,r +3.0,r +1.0,d +1.2
+cbs news/new york times,53,yes,yes,live,no,-0.5,-0.5,a-,d +0.4,76%,17%,4.6,5.3,-0.7,-0.5,-0.3,-0.5,43,d +0.7,d +0.4,d +1.8
+university of arkansas,6,yes,yes,live,no,-3.1,-0.5,a-,d +0.6,100%,0%,3.8,5.3,-1.6,-3.1,-0.5,-0.5,6,d +3.8,d +0.6,r +3.9
+university of connecticut,7,yes,yes,live,no,-1.7,-0.5,a-,r +0.4,93%,0%,3.6,5.5,-1.9,-1.7,-0.3,-0.5,7,r +1.9,r +0.4,r +2.0
+los angeles times,38,yes,yes,live,no,-0.4,-0.5,a-,r +0.4,86%,16%,5,6.2,-1.2,-0.4,-0.2,-0.5,23,r +1.0,r +0.4,d +0.7
+ibd/tipp,21,no,yes,live,no,-1.5,-0.5,a-,r +0.8,71%,5%,2.2,3.7,-1.5,-1.5,-0.6,-0.5,21,r +1.9,r +0.8,r +1.4
+rkm research and communications inc.,28,no,yes,live,no,-1.3,-0.4,a-,r +0.2,88%,18%,5.3,6.2,-0.9,-1.3,-0.6,-0.4,20,r +0.5,r +0.2,r +1.5
+massinc polling group,14,no,yes,live,no,-2.4,-0.4,a-,r +0.4,86%,7%,3.2,6.3,-3.1,-2.4,-0.8,-0.4,10,r +1.7,r +0.4,r +0.9
+elon university,7,yes,yes,live,no,-1.2,-0.4,a-,d +0.5,50%,0%,3.2,4.7,-1.4,-1.2,-0.2,-0.4,7,d +2.7,d +0.5,d +1.1
+quinnipiac university,195,yes,yes,live,no,-0.3,-0.4,a-,d +0.1,85%,23%,4.6,5.5,-0.9,-0.3,-0.3,-0.4,143,d +0.1,d +0.1,d +0.5
+ssrs,5,yes,yes,live,no,-1.5,-0.4,a-,r +0.1,20%,20%,3.1,4.1,-1,-1.5,-0.2,-0.4,5,r +0.5,r +0.1,d +1.0
+angus reid global,30,no,no,online,no,-1.9,-0.4,a-,r +1.3,93%,3%,3.2,4.9,-1.7,-1.9,-0.9,-0.4,30,r +2.6,r +1.3,d +0.9
+university of north florida,6,yes,yes,live,no,-1,-0.4,a-,d +0.5,50%,0%,4,6.1,-2.1,-1,-0.2,-0.4,4,d +4.0,d +0.5,d +1.6
+western new england university,12,yes,yes,live,no,-0.4,-0.3,a-,r +1.1,88%,25%,5.6,5.7,-0.1,-0.4,-0.1,-0.3,11,r +3.9,r +1.1,r +0.3
+nbc news/wall street journal,27,yes,yes,live,no,-0.2,-0.3,a-,d +0.8,72%,15%,4.2,5.1,-0.9,-0.2,-0.1,-0.3,22,d +1.9,d +0.8,d +1.4
+st. norbert college,12,no,yes,live,no,-1.8,-0.3,a-,d +0.3,88%,0%,3.9,6.1,-2.3,-1.8,-0.5,-0.3,11,d +0.9,d +0.3,d +2.9
+mason-dixon polling & research inc.,420,no,yes,live,no,-0.5,-0.3,b+,r +0.7,86%,20%,5.2,5.5,-0.2,-0.5,-0.5,-0.3,363,r +0.8,r +0.7,r +1.0
+lake research partners,10,no,yes,live,no,-2,-0.3,b+,d +0.6,80%,10%,3.9,5.7,-1.7,-2,-0.5,-0.3,10,d +2.4,d +0.6,d +3.3
+abt associates,8,yes,yes,live,no,-0.4,-0.3,b+,d +0.7,88%,13%,4.1,5.2,-1.1,-0.4,-0.1,-0.3,7,d +3.8,d +0.7,d +0.7
+castleton university,3,yes,yes,live,no,-1.2,-0.3,b+,,100%,0%,9.9,9.7,0.3,-1.2,-0.1,-0.3,0,,,
+emerson college,85,yes,no,ivr,no,-0.6,-0.3,b+,d +0.1,75%,16%,5.6,6,-0.3,-0.6,-0.4,-0.3,58,d +0.2,d +0.1,r +1.8
+epic-mra,45,no,yes,live,no,-0.7,-0.3,b+,r +0.2,80%,18%,5.1,5.7,-0.5,-0.7,-0.4,-0.3,40,r +0.3,r +0.2,d +0.8
+high point university,2,yes,yes,live,no,-4.6,-0.3,b+,d +0.0,100%,0%,1,4.5,-3.5,-4.6,-0.3,-0.3,2,d +0.1,d +0.0,d +1.8
+indiana university,2,yes,yes,live,no,-4.4,-0.3,b+,d +0.1,100%,0%,0.9,5.8,-4.9,-4.4,-0.3,-0.3,2,d +0.9,d +0.1,d +4.1
+cnn/opinion research corp.,98,yes,yes,live,no,-0.1,-0.2,b+,d +0.1,72%,23%,5.4,5.7,-0.3,-0.1,-0.1,-0.2,70,d +0.1,d +0.1,d +0.1
+fleming & associates,15,no,yes,live,no,-1.3,-0.2,b+,r +0.3,100%,0%,5.1,5.9,-0.8,-1.3,-0.4,-0.2,13,r +1.0,r +0.3,r +0.2
+princeton survey research associates international,33,yes,yes,live,no,0,-0.2,b+,d +0.3,70%,27%,4.8,5,-0.2,0,0,-0.2,31,d +0.5,d +0.3,r +0.2
+market shares corp.,26,yes,yes,live,no,0.1,-0.2,b+,r +1.7,85%,19%,6.8,5.6,1.2,0.1,0,-0.2,22,r +4.1,r +1.7,r +2.0
+ward research (honolulu star-advertiser),14,no,yes,live,no,-1.3,-0.2,b+,r +0.6,75%,29%,6,5.9,0.1,-1.3,-0.4,-0.2,14,r +1.7,r +0.6,d +0.7
+university of massachusetts lowell,17,no,yes,live,no,-1.1,-0.2,b+,r +0.2,88%,12%,4.5,6.4,-1.9,-1.1,-0.4,-0.2,9,r +0.8,r +0.2,r +0.7
+university of south alabama,8,no,yes,live,no,-3.1,-0.2,b+,r +0.4,100%,0%,2.8,5.2,-2.4,-3.1,-0.7,-0.2,8,r +1.9,r +0.4,r +2.2
+winthrop university,1,yes,yes,live,no,-3.9,-0.2,b+,d +0.0,100%,0%,0.2,4.2,-4,-3.9,-0.1,-0.2,1,d +0.2,d +0.0,r +0.9
+university of florida,1,yes,yes,live,no,-2,-0.2,b+,d +0.0,50%,0%,1.1,4.9,-3.8,-2,-0.1,-0.2,1,d +1.1,d +0.0,r +0.9
+national research inc.,8,no,yes,live,no,-1.9,-0.2,b+,r +0.5,81%,13%,5.1,6.4,-1.4,-1.9,-0.4,-0.2,6,r +2.7,r +0.5,r +4.6
+stockton university,8,no,yes,live,no,-1.9,-0.2,b+,d +0.3,100%,13%,3.6,5.2,-1.6,-1.9,-0.4,-0.2,8,d +1.5,d +0.3,d +0.2
+suffolk university,74,no,yes,live,no,-0.4,-0.1,b+,d +0.6,81%,19%,5,6.4,-1.3,-0.4,-0.3,-0.1,44,d +1.0,d +0.6,d +2.0
+market research insight,7,no,yes,live,no,-4.6,-0.1,b+,d +0.1,100%,0%,1.8,5,-3.2,-4.6,-0.9,-0.1,7,d +0.3,d +0.1,d +2.0
+montana state university billings,7,no,yes,live,no,-3.8,-0.1,b+,d +0.6,57%,0%,3.6,5.9,-2.3,-3.8,-0.7,-0.1,7,d +3.0,d +0.6,d +2.6
+data orbital,7,no,yes,live,no,-2.6,-0.1,b+,d +0.1,100%,0%,1.8,4.6,-2.8,-2.6,-0.5,-0.1,7,d +0.4,d +0.1,r +2.6
+riley research associates,7,no,yes,live,no,-2.4,-0.1,b+,r +0.1,100%,0%,2.7,5.6,-2.9,-2.4,-0.5,-0.1,7,r +0.6,r +0.1,r +1.4
+rt strategies,42,yes,yes,live,no,0.2,-0.1,b+,d +1.1,71%,40%,5.8,5.3,0.5,0.2,0.1,-0.1,42,d +1.9,d +1.1,d +3.5
+university of washington,9,no,yes,live,no,-1.4,-0.1,b+,d +0.1,100%,0%,3.7,5.1,-1.4,-1.4,-0.3,-0.1,9,d +0.3,d +0.1,d +3.4
+davis, hibbitts & midghall inc.,14,no,yes,live,no,-0.9,-0.1,b+,r +0.1,86%,7%,4.1,5.4,-1.3,-0.9,-0.3,-0.1,12,r +0.3,r +0.1,d +0.3
+ipsos,56,yes,no,online,no,-0.3,-0.1,b+,d +0.6,75%,18%,4.4,4.8,-0.4,-0.3,-0.2,-0.1,50,d +1.0,d +0.6,d +1.3
+harstad strategic research inc.,9,no,yes,live,no,-1.3,-0.1,b+,d +0.8,72%,11%,3.8,5.8,-2,-1.3,-0.3,-0.1,9,d +3.4,d +0.8,d +3.1
+pan atlantic sms group,17,no,yes,live,no,-0.7,-0.1,b+,d +0.9,91%,24%,6.8,6.4,0.4,-0.7,-0.3,-0.1,15,d +2.8,d +0.9,d +1.5
+garin-hart-yang research group,23,no,yes,live,no,-0.5,-0.1,b+,d +1.5,85%,35%,5.7,5.7,0,-0.5,-0.2,-0.1,23,d +3.5,d +1.5,d +4.6
+american viewpoint,6,no,yes,live,no,-1.8,0,b+,r +0.6,67%,0%,4,5.6,-1.7,-1.8,-0.3,0,6,r +3.8,r +0.6,r +3.2
+greenberg quinlan rosner/american viewpoint,7,no,yes,live,no,-1.5,0,b+,r +0.7,100%,57%,4.8,5.3,-0.4,-1.5,-0.3,0,5,r +4.9,r +0.7,d +1.8
+christopher newport university,7,no,yes,live,no,-1.5,0,b+,d +0.5,100%,14%,3.9,4.7,-0.8,-1.5,-0.3,0,7,d +2.6,d +0.5,d +1.2
+pharos research group,31,no,yes,live,yes,-0.3,0,f,d +0.9,92%,16%,4,4.9,-0.9,-0.3,-0.2,0,31,d +1.7,d +0.9,d +0.9
+temple university,6,yes,no,live*,no,-1.5,0,b,r +0.4,100%,17%,3.7,5.2,-1.6,-1.5,-0.3,0,5,r +2.5,r +0.4,d +0.8
+keating research inc.,5,no,yes,live,no,-1.8,0,b,d +0.1,80%,0%,2.4,4.5,-2.1,-1.8,-0.3,0,5,d +0.9,d +0.1,d +3.0
+clemson university,5,no,yes,live,no,-1.8,0,b,r +0.5,100%,40%,10.3,7.7,2.6,-1.8,-0.3,0,1,r +16.7,r +0.5,r +9.7
+public policy polling,411,no,no,ivr/online,no,-0.4,0,b,d +0.3,80%,28%,4.9,5.4,-0.4,-0.4,-0.4,0,292,d +0.3,d +0.3,d +1.0
+orion strategies,4,no,yes,live,no,-3.8,0,b,d +0.1,100%,0%,3.1,6.2,-3.2,-3.8,-0.4,0,3,d +1.3,d +0.1,d +6.3
+strategies 360,4,no,yes,live,no,-3,0,b,r +0.1,63%,0%,2,5.3,-3.3,-3,-0.3,0,4,r +0.6,r +0.1,d +1.0
+landmark communications,38,no,no,ivr/online,no,-0.9,0.1,b,d +1.4,82%,18%,4.7,5.4,-0.7,-0.9,-0.5,0.1,32,d +2.7,d +1.4,r +0.5
+yougov,375,no,no,online,no,-0.4,0.1,b,d +0.3,88%,25%,5,5.1,-0.1,-0.4,-0.3,0.1,327,d +0.3,d +0.3,d +0.3
+public opinion strategies,57,no,yes,live,no,-0.1,0.1,b,r +1.5,68%,23%,6,5.8,0.2,-0.1,-0.1,0.1,55,r +2.3,r +1.5,r +4.3
+global strategy group/national research (philadelphia inquirer),4,no,yes,live,no,-1.6,0.1,b,r +0.3,100%,0%,3,5,-2,-1.6,-0.2,0.1,4,r +2.7,r +0.3,d +0.1
+strategic vision llc,129,no,no,live*,yes,-0.4,0.1,f,r +1.9,88%,16%,4,5,-1,-0.4,-0.4,0.1,106,r +2.4,r +1.9,r +2.3
+cole hargrave snodgrass & associates,4,no,yes,live,no,-1.5,0.1,b,d +0.3,75%,25%,6.3,6.2,0.2,-1.5,-0.2,0.1,3,d +3.4,d +0.3,r +2.3
+tarrance group,24,no,yes,live,no,-0.2,0.1,b,r +0.7,83%,21%,6.2,6.4,-0.2,-0.2,-0.1,0.1,20,r +1.7,r +0.7,r +5.4
+iowa state university,3,no,yes,live,no,-3.5,0.1,b,,67%,33%,6.3,8.9,-2.6,-3.5,-0.3,0.1,0,,,
+missouri state university,3,no,yes,live,no,-2.6,0.1,b,d +0.4,67%,0%,4.4,6.7,-2.3,-2.6,-0.2,0.1,3,d +4.1,d +0.4,d +1.2
+voter/consumer research,6,no,yes,live,no,-0.9,0.1,b,d +0.1,100%,50%,5.5,5.7,-0.2,-0.9,-0.1,0.1,6,d +0.3,d +0.1,r +3.0
+gba strategies,3,no,yes,live,no,-1.9,0.1,b,r +0.0,67%,0%,4.7,6.1,-1.4,-1.9,-0.2,0.1,3,r +0.2,r +0.0,d +4.0
+mellman group,21,no,yes,live,no,-0.1,0.1,b,d +1.6,79%,14%,4.9,5.1,-0.2,-0.1,-0.1,0.1,21,d +4.0,d +1.6,d +5.4
+fox news/opinion dynamics corp.,34,yes,no,live*,no,-0.1,0.1,b,r +0.5,72%,9%,3.9,4.9,-1,-0.1,0,0.1,28,r +1.0,r +0.5,r +1.6
+gfk group,21,yes,no,online,no,-0.1,0.1,b,d +0.3,88%,19%,3.9,4.8,-0.9,-0.1,-0.1,0.1,21,d +0.6,d +0.3,d +1.2
+market decisions,4,no,yes,live,no,-1.2,0.1,b,r +0.1,100%,25%,5.2,5.1,0,-1.2,-0.1,0.1,4,r +0.5,r +0.1,d +0.4
+richmond times-dispatch,4,no,yes,live,no,-1.1,0.1,b,d +0.3,100%,0%,3.3,4.6,-1.3,-1.1,-0.1,0.1,4,d +2.9,d +0.3,d +2.4
+y2 analytics,4,no,yes,live,no,-1,0.1,b,d +0.3,100%,50%,9.6,5.7,3.9,-1,-0.1,0.1,3,d +3.3,d +0.3,r +6.5
+new england college,15,no,no,ivr,no,-1.4,0.2,b,r +0.6,77%,0%,3,4.9,-1.9,-1.4,-0.5,0.2,15,r +1.9,r +0.6,r +3.5
+mckeon & associates,2,no,yes,live,no,-6.5,0.2,b,r +0.0,100%,0%,0.9,6.5,-5.5,-6.5,-0.4,0.2,1,r +0.9,r +0.0,r +2.0
+rbi strategies & research,2,no,yes,live,no,-6.4,0.2,b,r +0.0,100%,0%,0.7,5.4,-4.6,-6.4,-0.4,0.2,1,r +0.7,r +0.0,d +3.5
+frederick polls,2,no,yes,live,no,-5,0.2,b,r +0.0,75%,0%,2.4,6.4,-4,-5,-0.3,0.2,1,r +0.6,r +0.0,d +3.0
+apc research,2,no,yes,live,no,-3.4,0.2,b,d +0.2,100%,0%,2.5,5.4,-2.8,-3.4,-0.2,0.2,2,d +2.5,d +0.2,r +0.6
+tulchin research,2,no,yes,live,no,-3,0.2,b,r +0.2,100%,0%,3.5,4.9,-1.5,-3,-0.2,0.2,2,r +3.5,r +0.2,d +3.2
+harper polling,11,no,no,ivr,no,-1.8,0.2,b,d +0.1,91%,9%,3.6,5.8,-2.3,-1.8,-0.5,0.2,8,d +0.5,d +0.1,r +1.1
+wilson perkins allen opinion research,4,no,yes,live,no,-0.8,0.2,b,r +0.1,50%,25%,6.1,5.7,0.4,-0.8,-0.1,0.2,4,r +0.6,r +0.1,r +7.1
+knowledge networks,3,yes,no,online,no,-1.1,0.2,b,r +0.4,100%,33%,4.1,4.7,-0.6,-1.1,-0.1,0.2,3,r +4.1,r +0.4,r +1.0
+glengariff group inc.,7,no,yes,live,no,-0.3,0.2,b,r +0.1,71%,0%,4.7,5.7,-1,-0.3,-0.1,0.2,6,r +0.5,r +0.1,d +1.9
+tel opinion research,12,no,yes,live,no,-0.1,0.2,b,r +0.0,96%,17%,4.7,5.6,-0.9,-0.1,0,0.2,10,r +0.1,r +0.0,d +0.1
+southern media & opinion research,7,no,yes,live,no,-0.2,0.2,b,d +0.6,100%,14%,5.6,5.6,0,-0.2,0,0.2,7,d +3.2,d +0.6,d +3.6
+louisville courier-journal,10,no,no,live*,no,-1.8,0.2,b,r +0.3,80%,10%,3.3,5.2,-1.8,-1.8,-0.5,0.2,10,r +1.3,r +0.3,r +1.6
+market research institute inc.,9,no,no,live*,no,-2.6,0.2,b,r +0.3,100%,11%,2.9,5.2,-2.3,-2.6,-0.6,0.2,9,r +1.4,r +0.3,r +0.8
+insights west,9,no,no,online,no,-2.5,0.2,b,r +0.1,94%,0%,2.5,4.7,-2.2,-2.5,-0.6,0.2,8,r +0.4,r +0.1,r +0.9
+moore information,6,no,yes,live,no,-0.3,0.2,b,r +0.5,67%,17%,6.5,6.1,0.4,-0.3,-0.1,0.2,6,r +2.8,r +0.5,r +5.1
+gallup,79,yes,yes,live,no,0.5,0.2,b,r +0.9,71%,29%,4.3,4.9,-0.6,0.5,0.4,0.2,65,r +1.3,r +0.9,r +1.6
+kiley & company,2,no,yes,live,no,-1.5,0.2,b,d +0.2,100%,0%,5.1,5.8,-0.7,-1.5,-0.1,0.2,2,d +3.4,d +0.2,d +7.3
+vox populi communications,11,no,no,ivr,no,-1.6,0.2,b,r +0.2,77%,9%,4.1,5.5,-1.5,-1.6,-0.4,0.2,10,r +0.7,r +0.2,r +2.2
+hill research consultants,4,no,yes,live,no,-0.4,0.2,b,r +0.4,50%,25%,5.4,5.3,0.1,-0.4,0,0.2,4,r +3.2,r +0.4,r +1.0
+university of new hampshire,111,yes,yes,live,no,0.5,0.2,b,d +2.7,85%,22%,5.9,5.7,0.1,0.5,0.4,0.2,95,d +3.6,d +2.7,d +3.4
+university of wisconsin (badger poll),6,yes,no,live*,no,-0.1,0.2,b,d +0.2,83%,17%,6.9,5.6,1.3,-0.1,0,0.2,5,d +1.3,d +0.2,d +1.7
+fabrizio, lee & associates,2,no,yes,live,no,-0.9,0.2,b,d +0.4,50%,50%,5.9,6.2,-0.3,-0.9,-0.1,0.2,2,d +5.8,d +0.4,r +1.3
+north star opinion research/ayres, mchenry & associates,3,no,yes,live,no,-0.4,0.2,b,r +0.5,67%,0%,5.6,5.7,-0.1,-0.4,0,0.2,3,r +5.6,r +0.5,r +5.3
+university of houston,1,no,yes,live,no,-6.5,0.2,b,,100%,0%,2,8.5,-6.4,-6.5,-0.2,0.2,0,,,
+florida international university/univision,1,no,yes,live,no,-6.1,0.2,b,d +0.1,100%,0%,1.8,6.4,-4.5,-6.1,-0.2,0.2,1,d +1.8,d +0.1,r +13.0
+starboard communications,1,no,yes,live,no,-4.9,0.2,b,d +0.1,100%,0%,3.3,4.2,-0.9,-4.9,-0.2,0.2,1,d +3.3,d +0.1,r +7.3
+qev analytics,1,no,yes,live,no,-2,0.2,b,,0%,0%,7.3,5.8,1.5,-2,-0.1,0.2,0,,,
+merrill poll,2,no,yes,live,no,-0.8,0.2,b,,100%,0%,8.7,8.8,-0.1,-0.8,0,0.2,0,,,
+braun research,6,no,yes,live,no,0,0.2,b,d +1.1,100%,50%,6.6,5.4,1.2,0,0,0.2,6,d +6.6,d +1.1,d +2.8
+cygnal,2,no,yes,live,no,-0.7,0.2,b,d +0.3,100%,0%,5.2,4.6,0.6,-0.7,0,0.2,2,d +5.2,d +0.3,r +3.4
+probolsky research,1,no,yes,live,no,-1.7,0.3,b,r +0.2,0%,0%,4.9,5.6,-0.8,-1.7,-0.1,0.3,1,r +4.9,r +0.2,
+george washington university (battleground),31,no,yes,live,no,0.2,0.3,b,r +1.0,55%,19%,3.5,4.5,-0.9,0.2,0.1,0.3,31,r +1.9,r +1.0,r +2.0
+dittman research,9,no,yes,live,no,0.1,0.3,b,d +1.0,100%,22%,5.9,5.5,0.4,0.1,0,0.3,6,d +6.1,d +1.0,d +0.7
+meeting street research,1,no,yes,live,no,-1.4,0.3,b-,d +0.1,100%,0%,2.7,6.2,-3.5,-1.4,0,0.3,1,d +2.7,d +0.1,d +5.3
+yankelovich partners inc.,6,yes,no,live*,no,0.1,0.3,b-,r +0.1,42%,50%,7,6.7,0.3,0.1,0,0.3,3,r +1.2,r +0.1,r +1.3
+associated industries of florida,2,no,yes,live,no,-0.4,0.3,b-,d +0.2,50%,0%,3.4,5,-1.5,-0.4,0,0.3,2,d +3.4,d +0.2,d +1.0
+dartmouth college,2,no,yes,live,no,-0.4,0.3,b-,,100%,50%,9,8.1,0.9,-0.4,0,0.3,0,,,
+old dominion university,1,no,yes,live,no,-0.9,0.3,b-,d +0.1,100%,0%,4.5,5.4,-0.9,-0.9,0,0.3,1,d +4.5,d +0.1,r +0.8
+baruch college,2,no,yes,live,no,-0.2,0.3,b-,,100%,0%,5.7,8.4,-2.7,-0.2,0,0.3,0,,,
+schoen consulting,1,no,yes,live,no,-0.8,0.3,b-,r +0.1,100%,0%,2.3,5.1,-2.9,-0.8,0,0.3,1,r +2.3,r +0.1,r +1.8
+centre college,1,no,yes,live,no,-0.7,0.3,b-,d +0.1,100%,0%,3.9,4.9,-1,-0.7,0,0.3,1,d +3.9,d +0.1,d +2.3
+bendixen & amandi international,2,no,yes,live,no,-0.1,0.3,b-,d +0.1,100%,0%,3,5,-1.9,-0.1,0,0.3,2,d +1.6,d +0.1,d +3.0
+belden russonello,2,no,yes,live,no,0,0.3,b-,d +0.2,100%,50%,4.7,5.1,-0.4,0,0,0.3,2,d +3.3,d +0.2,d +5.7
+rrh elections,7,no,no,ivr/online,no,-2.2,0.3,b-,d +0.0,79%,14%,3.4,5.4,-2,-2.2,-0.4,0.3,7,d +0.2,d +0.0,r +4.1
+pew research center,21,yes,no,online/live,no,0.3,0.3,b-,d +0.6,60%,29%,3.5,4.1,-0.7,0.3,0.1,0.3,21,d +1.5,d +0.6,d +0.9
+university of denver,2,no,yes,live,no,0.1,0.3,b-,r +0.1,100%,0%,3.4,4.8,-1.5,0.1,0,0.3,2,r +1.0,r +0.1,r +0.4
+clarus research group,3,no,yes,live,no,0.3,0.3,b-,d +0.6,100%,33%,6.8,5.4,1.4,0.3,0,0.3,3,d +6.8,d +0.6,d +2.2
+financial dynamics,15,no,no,live*,no,-0.9,0.3,b-,r +0.7,100%,0%,2.8,4.8,-2,-0.9,-0.3,0.3,15,r +2.0,r +0.7,r +2.1
+callfire,4,no,yes,live,no,0.4,0.3,b-,r +0.5,75%,0%,3.9,4.1,-0.1,0.4,0.1,0.3,4,r +3.9,r +0.5,r +0.4
+basswood research,2,no,yes,live,no,0.6,0.3,b-,r +0.4,100%,50%,10.7,7.6,3.1,0.6,0,0.3,1,r +13.1,r +0.4,
+virginia commonwealth university,5,no,yes,live,no,0.5,0.3,b-,r +0.3,100%,20%,4.9,5,-0.1,0.5,0.1,0.3,5,r +1.9,r +0.3,r +1.7
+university of nevada las vegas,1,no,yes,live,no,0.7,0.3,b-,,100%,0%,9,8.2,0.8,0.7,0,0.3,0,,,
+middle tennessee state university,4,no,yes,live,no,0.5,0.3,b-,d +0.1,100%,25%,8,6.4,1.7,0.5,0.1,0.3,3,d +1.3,d +0.1,r +5.0
+victoria research & consulting,1,no,yes,live,no,0.8,0.3,b-,d +0.3,50%,0%,8.1,6.2,1.9,0.8,0,0.3,1,d +8.1,d +0.3,
+normington, petts & associates,10,no,yes,live,no,0.4,0.3,b-,d +0.7,60%,40%,6.4,6.1,0.3,0.4,0.1,0.3,10,d +2.7,d +0.7,d +4.5
+ethridge & associates llc,6,no,no,live*,no,-2.4,0.3,b-,r +0.1,83%,0%,2.7,5,-2.4,-2.4,-0.4,0.3,6,r +0.7,r +0.1,r +3.4
+npr,3,no,yes,live,no,0.8,0.4,b-,d +0.1,17%,33%,5,5,0,0.8,0.1,0.4,3,d +1.0,d +0.1,d +1.0
+rutgers university,13,yes,yes,live,no,1.9,0.4,b-,d +0.1,85%,15%,5.7,5.2,0.5,1.9,0.6,0.4,13,d +0.3,d +0.1,d +1.3
+potomac incorporated,8,no,no,live*,no,-1.5,0.4,b-,r +0.5,88%,13%,4.5,6,-1.4,-1.5,-0.3,0.4,6,r +3.1,r +0.5,d +1.3
+hoffman research group,1,no,yes,live,no,1.6,0.4,b-,r +0.2,100%,0%,7.1,4.4,2.7,1.6,0.1,0.4,1,r +7.1,r +0.2,r +0.4
+benenson strategy group,9,no,yes,live,no,0.6,0.4,b-,d +0.7,50%,11%,6.2,6,0.3,0.6,0.1,0.4,9,d +2.8,d +0.7,d +7.6
+capital survey research center,11,no,no,live*,no,-1,0.4,b-,d +0.1,36%,36%,7.8,7.1,0.7,-1,-0.3,0.4,4,d +0.6,d +0.1,d +1.1
+greenberg quinlan rosner (democracy corps),50,no,yes,live,no,0.3,0.4,b-,d +2.4,51%,20%,4.4,5,-0.6,0.3,0.2,0.4,49,d +3.9,d +2.4,d +3.5
+val smith,1,no,yes,live,no,2.1,0.4,b-,r +0.3,100%,0%,8.5,6.1,2.4,2.1,0.1,0.4,1,r +8.5,r +0.3,r +15.0
+franklin & marshall college,19,yes,yes,live,no,1.6,0.4,b-,d +0.1,84%,26%,6.7,5.9,0.8,1.6,0.6,0.4,16,d +0.4,d +0.1,d +1.4
+fairbank, maslin, maullin, metz & associates,7,no,yes,live,no,0.8,0.4,b-,d +1.0,79%,29%,5.9,5.7,0.2,0.8,0.1,0.4,7,d +5.5,d +1.0,d +6.9
+hendrix college,11,no,no,ivr,no,-1,0.4,b-,d +1.7,91%,36%,6.3,5.8,0.5,-1,-0.3,0.4,11,d +6.3,d +1.7,r +2.8
+soonerpoll.com,17,yes,no,online/live,no,0.6,0.4,b-,d +1.9,82%,41%,8.4,5.9,2.5,0.6,0.2,0.4,13,d +6.4,d +1.9,r +0.2
+dfm research,8,no,yes,live,no,0.7,0.4,b-,d +1.5,69%,50%,6.9,5.6,1.3,0.7,0.2,0.4,8,d +6.9,d +1.5,d +2.9
+opinionworks,6,no,yes,live,no,0.9,0.4,b-,r +0.5,92%,50%,7.3,5.3,2,0.9,0.1,0.4,6,r +3.0,r +0.5,d +3.7
+st. pete polls,5,no,no,ivr,no,-3.3,0.4,b-,d +0.1,70%,0%,1.4,5,-3.6,-3.3,-0.5,0.4,5,d +0.7,d +0.1,d +0.3
+crawford johnson & northcott inc.,5,no,no,live*,no,-3.1,0.4,b-,d +0.1,100%,20%,4.7,7.7,-3,-3.1,-0.4,0.4,1,d +3.3,d +0.1,
+schroth, eldon & associates,8,no,no,live*,no,-1.2,0.4,b-,d +0.6,88%,0%,3.2,5.6,-2.5,-1.2,-0.3,0.4,6,d +3.4,d +0.6,d +1.4
+overtime politics,12,no,yes,live,yes,0.7,0.4,f,,67%,42%,9.8,8.4,1.5,0.7,0.2,0.4,0,,,
+wilson research strategies,10,no,yes,live,no,0.8,0.4,b-,r +0.1,65%,20%,6.9,5.9,1,0.8,0.2,0.4,9,r +0.5,r +0.1,r +2.8
+feldman group,1,no,yes,live,no,3.6,0.4,b-,d +0.3,0%,100%,10.8,5.8,5,3.6,0.1,0.4,1,d +10.8,d +0.3,
+gonzales research & marketing strategies inc.,9,no,yes,live,no,0.9,0.4,b-,r +0.4,78%,22%,6.4,5.9,0.5,0.9,0.2,0.4,8,r +2.1,r +0.4,r +1.4
+franklin pierce university,21,no,yes,live,no,0.6,0.4,b-,d +1.3,83%,33%,6.6,6.3,0.3,0.6,0.3,0.4,12,d +4.5,d +1.3,d +5.1
+florida poll,6,no,yes,live,no,1.1,0.4,b-,d +0.6,67%,0%,4.6,4.9,-0.2,1.1,0.2,0.4,6,d +3.3,d +0.6,d +1.6
+research 2000,277,no,no,live*,yes,0,0.4,f,d +1.4,88%,18%,5.5,5.5,0,0,0,0.4,245,d +1.6,d +1.4,d +1.2
+krc/communications research,22,no,no,live*,no,-0.3,0.4,b-,d +0.2,91%,27%,6.9,6.9,0,-0.3,-0.1,0.4,11,d +0.7,d +0.2,d +2.5
+cherry communications,3,no,yes,live,no,1.9,0.5,b-,r +0.4,50%,33%,8.8,6.5,2.3,1.9,0.2,0.5,2,r +5.9,r +0.4,r +6.3
+socialsphere,2,no,yes,live,no,2.7,0.5,b-,r +0.4,100%,0%,6.1,5.4,0.8,2.7,0.2,0.5,2,r +6.1,r +0.4,r +6.4
+wiese research associates inc.,6,no,yes,live,no,1.3,0.5,b-,d +1.0,100%,50%,8.2,6.1,2.1,1.3,0.2,0.5,6,d +5.9,d +1.0,d +4.1
+dixie strategies,6,no,no,ivr,no,-1.3,0.5,b-,r +0.1,92%,33%,5.2,6.1,-1,-1.3,-0.2,0.5,3,r +1.1,r +0.1,r +3.4
+university of massachusetts amherst,11,no,no,live*,no,-0.7,0.5,b-,r +0.4,100%,9%,6.5,7.8,-1.2,-0.7,-0.2,0.5,2,r +7.2,r +0.4,r +1.8
+university of texas,4,no,no,online,no,-4.9,0.5,b-,d +0.1,100%,0%,1.2,5.4,-4.1,-4.9,-0.6,0.5,4,d +1.1,d +0.1,d +2.8
+alabama state university,4,no,no,live*,no,-3.4,0.5,b-,,50%,0%,6.4,8.4,-2,-3.4,-0.4,0.5,0,,,
+northern arizona university,4,no,no,live*,no,-3.3,0.5,b-,r +0.4,100%,25%,3.6,5.6,-2.1,-3.3,-0.4,0.5,4,r +3.3,r +0.4,r +5.1
+scripps howard,4,no,no,live*,no,-2.2,0.5,b-,r +0.1,100%,25%,3.8,4.8,-1,-2.2,-0.3,0.5,4,r +0.6,r +0.1,r +2.3
+ivr polls,4,no,no,ivr,no,-2.2,0.5,b-,,100%,25%,4.1,7.9,-3.8,-2.2,-0.3,0.5,0,,,
+marshall marketing & communications,4,no,no,live*,no,-2.2,0.5,b-,r +0.2,100%,0%,2.8,6.1,-3.3,-2.2,-0.3,0.5,3,r +2.2,r +0.2,r +0.5
+morning consult,8,no,no,online,no,-1,0.5,b-,d +0.6,63%,13%,2.7,4.1,-1.3,-1,-0.2,0.5,8,d +2.7,d +0.6,d +0.5
+richard day research inc.,11,no,no,live*,no,-0.6,0.5,b-,r +0.8,100%,27%,5.5,5.3,0.2,-0.6,-0.2,0.5,11,r +2.9,r +0.8,r +0.9
+glover park group,1,no,yes,live,no,5.3,0.5,b-,r +0.4,0%,100%,11.4,6.6,4.8,5.3,0.2,0.5,1,r +11.4,r +0.4,r +11.5
+onpoint,4,no,no,ivr,no,-1.9,0.5,b-,d +0.2,100%,0%,1.7,4.8,-3.1,-1.9,-0.2,0.5,4,d +1.6,d +0.2,d +2.3
+loras college,18,no,yes,live,no,0.8,0.5,b-,d +1.4,72%,17%,8.1,6.1,2,0.8,0.3,0.5,14,d +4.3,d +1.4,d +0.6
+cvoter international,5,no,no,online,no,-1.5,0.5,b-,r +0.3,100%,0%,2.1,3.3,-1.2,-1.5,-0.2,0.5,5,r +1.8,r +0.3,r +0.3
+frank n. magid associates inc.,4,no,no,live*,no,-1.9,0.5,b-,d +0.5,100%,25%,4.6,5.6,-1,-1.9,-0.2,0.5,4,d +4.6,d +0.5,r +0.9
+penn schoen berland,18,yes,no,online,no,0.8,0.5,b-,d +2.5,67%,39%,7.6,6.2,1.4,0.8,0.3,0.5,18,d +6.7,d +2.5,d +0.4
+lucid,14,no,no,online,no,-0.4,0.5,b-,d +0.8,100%,14%,2.6,3.8,-1.2,-0.4,-0.1,0.5,14,d +2.4,d +0.8,d +1.8
+howey politics/depauw university,7,no,yes,live,no,1.4,0.5,b-,d +0.1,57%,29%,6.8,5.4,1.4,1.4,0.3,0.5,6,d +0.6,d +0.1,d +1.3
+clarity campaign labs,10,no,no,ivr/live,no,-0.5,0.5,b-,d +0.9,45%,20%,3.6,4.3,-0.7,-0.5,-0.1,0.5,10,d +3.6,d +0.9,d +0.8
+university of illinois at chicago,1,yes,no,live*,no,6.6,0.5,b-,r +0.5,100%,100%,14.1,5.7,8.4,6.6,0.2,0.5,1,r +14.1,r +0.5,r +5.1
+praecones analytica,3,no,no,ivr,no,-4.7,0.5,b-,r +0.2,33%,0%,1.8,5.5,-3.7,-4.7,-0.4,0.5,3,r +1.8,r +0.2,r +5.3
+u.s. news & world report,3,no,no,live*,no,-4.3,0.5,b-,r +0.1,100%,0%,1.9,5.1,-3.2,-4.3,-0.4,0.5,3,r +0.8,r +0.1,d +1.2
+msr group,3,no,no,live*,no,-3.3,0.5,b-,d +0.3,100%,0%,3.5,6,-2.6,-3.3,-0.3,0.5,3,d +3.5,d +0.3,d +1.3
+personal marketing research,3,no,no,live*,no,-2.3,0.5,b-,,67%,33%,6.2,8.3,-2.2,-2.3,-0.2,0.5,0,,,
+baselice & associates inc.,2,no,yes,live,no,4,0.5,b-,r +0.2,100%,50%,10,5.8,4.1,4,0.3,0.5,2,r +3.0,r +0.2,r +8.8
+bk strategies,3,no,no,ivr,no,-1.8,0.5,c+,d +0.3,67%,33%,3.8,4.3,-0.5,-1.8,-0.2,0.5,3,d +3.6,d +0.3,r +2.9
+talmey-drake research & strategy inc.,9,no,yes,live,no,1.4,0.5,c+,r +0.4,50%,44%,7.7,5.6,2.1,1.4,0.3,0.5,9,r +1.8,r +0.4,d +2.7
+midwest survey and research,3,no,no,live*,no,-1.8,0.5,c+,r +0.1,100%,33%,7.3,5.9,1.4,-1.8,-0.2,0.5,3,r +1.0,r +0.1,
+lauer johnson research,1,no,yes,live,no,7.5,0.5,c+,d +0.4,0%,100%,13.8,6,7.9,7.5,0.2,0.5,1,d +13.8,d +0.4,d +17.0
+market solutions group,4,no,no,live*,no,-1.1,0.6,c+,r +0.0,100%,0%,4.3,6.2,-1.9,-1.1,-0.1,0.6,2,r +0.1,r +0.0,d +1.8
+university of wisconsin milwaukee,3,no,no,live*,no,-1.6,0.6,c+,r +0.5,100%,33%,5.3,6.3,-1,-1.6,-0.1,0.6,3,r +5.3,r +0.5,r +2.1
+wirthlin worldwide,4,no,no,live*,no,-1,0.6,c+,r +0.5,75%,25%,4.6,5.8,-1.2,-1,-0.1,0.6,4,r +3.9,r +0.5,r +4.9
+purple strategies,4,no,no,online,no,-0.9,0.6,c+,r +0.4,88%,0%,3,4.2,-1.2,-0.9,-0.1,0.6,4,r +3.0,r +0.4,r +0.0
+strategic national,2,no,no,ivr,no,-5.7,0.6,c+,d +0.0,25%,0%,0.7,4.2,-3.5,-5.7,-0.4,0.6,2,d +0.7,d +0.0,r +4.8
+m4 strategies,2,no,no,online,no,-5.4,0.6,c+,r +0.2,100%,50%,3.1,4.1,-1,-5.4,-0.3,0.6,2,r +3.1,r +0.2,d +4.8
+louis harris & associates,2,no,no,live*,no,-4.5,0.6,c+,d +0.1,100%,0%,0.9,4.8,-3.9,-4.5,-0.3,0.6,2,d +0.9,d +0.1,d +4.6
+master image,2,no,no,ivr,no,-4.1,0.6,c+,,100%,0%,1.2,7.7,-6.6,-4.1,-0.3,0.6,0,,,
+multi-quest international,2,no,no,live*,no,-2.9,0.6,c+,r +0.1,50%,0%,3,5.3,-2.3,-2.9,-0.2,0.6,2,r +1.1,r +0.1,d +1.9
+douglas fulmer & associates,2,no,no,ivr/live,no,-2.9,0.6,c+,,100%,50%,5.1,8.2,-3.1,-2.9,-0.2,0.6,0,,,
+lincoln institute,2,no,no,live*,no,-2.8,0.6,c+,r +0.3,75%,0%,4.1,5.3,-1.1,-2.8,-0.2,0.6,2,r +4.1,r +0.3,d +2.5
+forward strategies,2,no,no,ivr,no,-2.7,0.6,c+,d +0.1,100%,0%,1.3,4.8,-3.5,-2.7,-0.2,0.6,2,d +1.3,d +0.1,d +3.4
+florida atlantic university,4,no,no,ivr,no,-0.9,0.6,c+,d +0.3,75%,0%,3.9,6.7,-2.7,-0.9,-0.1,0.6,2,d +4.1,d +0.3,d +1.7
+public opinion strategies/hamilton campaigns (texas credit union league),2,no,no,live*,no,-1.9,0.6,c+,,100%,0%,7,8.8,-1.8,-1.9,-0.1,0.6,0,,,
+manhattanville college,3,no,no,live*,no,-1,0.6,c+,r +0.5,100%,33%,6.5,6.4,0.1,-1,-0.1,0.6,2,r +8.2,r +0.5,d +0.2
+dan jones & associates,35,no,no,online/live/mail,no,0.1,0.6,c+,d +1.1,97%,20%,7.9,6,2,0.1,0.1,0.6,31,d +2.1,d +1.1,r +2.6
+american research group,263,no,yes,live,no,0.5,0.6,c+,r +0.2,75%,34%,7.5,6.9,0.6,0.5,0.5,0.6,79,r +0.3,r +0.2,r +1.9
+rasmussen reports/pulse opinion research,711,no,no,ivr/online,no,0.2,0.6,c+,r +1.5,78%,25%,5.3,5.4,-0.1,0.2,0.2,0.6,571,r +1.6,r +1.5,r +1.2
+jim meader (keloland-tv),4,no,no,live*,no,-0.6,0.6,c+,d +0.5,100%,0%,4.6,5.4,-0.8,-0.6,-0.1,0.6,4,d +4.6,d +0.5,d +4.4
+oh predictive insights/mbqf,2,no,no,ivr,no,-1.4,0.6,c+,r +0.2,100%,0%,4.8,7,-2.1,-1.4,-0.1,0.6,1,r +5.3,r +0.2,r +8.3
+arizona state university,8,no,yes,live,no,1.9,0.6,c+,d +0.9,100%,50%,8,5.9,2.1,1.9,0.4,0.6,6,d +5.5,d +0.9,d +6.5
+hays research group,7,no,yes,live,no,2.2,0.6,c+,d +1.1,71%,29%,7.7,5.3,2.4,2.2,0.4,0.6,3,d +11.9,d +1.1,d +2.7
+rhode island college,5,no,no,live*,no,-0.2,0.7,c+,r +0.2,100%,20%,6.1,6,0.1,-0.2,0,0.7,4,r +1.5,r +0.2,r +0.8
+west chester university,7,no,no,live*,no,0,0.7,c+,d +0.2,100%,14%,5.2,5.2,0,0,0,0.7,7,d +1.0,d +0.2,d +2.3
+rms research,1,no,no,live*,no,-6.1,0.7,c+,r +0.0,100%,0%,0.9,6.4,-5.5,-6.1,-0.2,0.7,1,r +0.9,r +0.0,
+canisius college,1,no,no,live*,no,-5.8,0.7,c+,,100%,0%,0.1,8.5,-8.3,-5.8,-0.2,0.7,0,,,
+university of tennessee,1,no,no,live*,no,-5.3,0.7,c+,r +0.1,100%,0%,2.7,4.8,-2,-5.3,-0.2,0.7,1,r +2.7,r +0.1,r +5.4
+market strategies international,1,no,no,live*,no,-4.7,0.7,c+,r +0.0,100%,0%,1.1,5.6,-4.5,-4.7,-0.2,0.7,1,r +1.1,r +0.0,r +4.6
+dynamic marketing inc.,1,no,no,live*,no,-4.4,0.7,c+,d +0.1,100%,0%,3,6.2,-3.2,-4.4,-0.1,0.7,1,d +3.0,d +0.1,r +7.5
+cooper & secrest,1,no,no,live*,no,-4,0.7,c+,r +0.1,0%,0%,2.6,6.2,-3.6,-4,-0.1,0.7,1,r +2.6,r +0.1,
+lauer lalley victoria inc.,1,no,no,live*,no,-3.9,0.7,c+,r +0.1,100%,0%,1.7,6.4,-4.6,-3.9,-0.1,0.7,1,r +1.7,r +0.1,d +4.0
+cranford & associates,1,no,no,online,no,-3.9,0.7,c+,d +0.1,100%,0%,2.5,5.4,-3,-3.9,-0.1,0.7,1,d +2.5,d +0.1,d +9.5
+wood communications group,1,no,no,live*,no,-3.7,0.7,c+,d +0.0,100%,0%,0.8,5.6,-4.8,-3.7,-0.1,0.7,1,d +0.8,d +0.0,d +3.0
+bigresearch,1,no,no,online,no,-3.5,0.7,c+,d +0.1,100%,0%,2,4.3,-2.3,-3.5,-0.1,0.7,1,d +2.0,d +0.1,d +7.5
+aspen media & market research,1,no,no,live*,no,-3.1,0.7,c+,r +0.1,100%,0%,3.5,5.9,-2.4,-3.1,-0.1,0.7,1,r +3.5,r +0.1,
+central surveys inc.,1,no,no,live*,no,-3.1,0.7,c+,d +0.1,0%,0%,1.7,4.9,-3.2,-3.1,-0.1,0.7,1,d +1.7,d +0.1,d +2.3
+university of north carolina,1,no,no,live*,no,-3,0.7,c+,d +0.1,100%,0%,1.6,5.3,-3.7,-3,-0.1,0.7,1,d +1.6,d +0.1,r +1.3
+revily,1,no,no,ivr,no,-2.9,0.7,c+,r +0.0,100%,0%,0.5,5.6,-5.1,-2.9,-0.1,0.7,1,r +0.5,r +0.0,d +1.7
+singularis group,1,no,no,ivr,no,-2.9,0.7,c+,r +0.0,100%,0%,0.8,5,-4.2,-2.9,-0.1,0.7,1,r +0.8,r +0.0,d +2.0
+red sea communications,1,no,no,live*,no,-2.8,0.7,c+,r +0.1,100%,0%,4.4,6.5,-2.1,-2.8,-0.1,0.7,1,r +4.4,r +0.1,
+new mexico state university,1,no,no,live*,no,-2.7,0.7,c+,,0%,0%,6.8,9.2,-2.4,-2.7,-0.1,0.7,0,,,
+winston group,1,no,no,live*,no,-2.5,0.7,c+,d +0.2,100%,0%,6.3,6.4,0,-2.5,-0.1,0.7,1,d +6.3,d +0.2,r +8.0
+diversified research inc,1,no,no,live*,no,-2.5,0.7,c+,r +0.2,100%,0%,5,6.8,-1.8,-2.5,-0.1,0.7,1,r +5.0,r +0.2,
+dccc targeting team,1,no,no,ivr,no,-2.4,0.7,c+,d +0.1,100%,0%,4.5,6.2,-1.7,-2.4,-0.1,0.7,1,d +4.5,d +0.1,
+rivercity polling,1,no,no,ivr,no,-2.3,0.7,c+,r +0.2,100%,0%,6.7,6.9,-0.2,-2.3,-0.1,0.7,1,r +6.7,r +0.2,r +11.5
+csp polling,1,no,no,online,yes,-2.3,0.7,f,d +0.1,100%,0%,2.6,5.2,-2.6,-2.3,-0.1,0.7,1,d +2.6,d +0.1,r +2.6
+diamond state consulting group,1,no,no,ivr,no,-2.2,0.7,c+,d +0.1,100%,0%,4.2,5.5,-1.3,-2.2,-0.1,0.7,1,d +4.2,d +0.1,r +5.0
+neighborhood research corporation,1,no,no,live*,no,-2.1,0.7,c+,r +0.1,100%,0%,3.4,5.7,-2.3,-2.1,-0.1,0.7,1,r +3.4,r +0.1,r +7.2
+constituent dynamics,7,no,no,ivr,no,0,0.7,c+,r +0.0,86%,57%,7.4,7.3,0,0,0,0.7,1,r +1.3,r +0.0,d +2.3
+jmc enterprises,8,no,no,ivr/live,no,0,0.7,c+,r +1.0,81%,25%,6.1,5.2,0.9,0,0,0.7,8,r +4.9,r +1.0,r +1.3
+marketing resource group (mrg),7,no,yes,live,no,2.3,0.7,c+,r +0.3,14%,71%,11.4,7.3,4,2.3,0.4,0.7,3,r +3.0,r +0.3,r +1.1
+susquehanna polling & research inc.,31,no,no,ivr/live,no,0.2,0.7,c+,d +0.2,74%,26%,5.2,5.3,0,0.2,0.1,0.7,26,d +0.5,d +0.2,d +0.3
+nreca market research,1,no,no,live*,no,-1.7,0.7,c+,d +0.2,100%,0%,6.3,5.7,0.6,-1.7,-0.1,0.7,1,d +6.3,d +0.2,
+war room logistics,1,no,no,ivr,no,-1.6,0.7,c+,,100%,0%,4.5,7.4,-2.9,-1.6,-0.1,0.7,0,,,
+st. cloud state university,9,no,yes,live,no,2,0.7,c+,d +0.4,67%,44%,6.5,5.5,1,2,0.5,0.7,9,d +1.9,d +0.4,d +1.2
+triumph campaigns,1,no,no,ivr,no,-1.5,0.7,c+,r +0.1,100%,0%,4.2,4.9,-0.6,-1.5,0,0.7,1,r +4.2,r +0.1,r +5.0
+forman center,1,no,no,live*,no,-1.4,0.7,c+,d +0.1,100%,0%,2.6,5.4,-2.8,-1.4,0,0.7,1,d +2.6,d +0.1,d +4.3
+rand (american life panel),4,no,no,online,no,-0.1,0.7,c+,d +0.2,100%,25%,2.7,3.2,-0.5,-0.1,0,0.7,4,d +1.4,d +0.2,d +3.8
+iona college,1,no,no,ivr,no,-1.2,0.7,c+,d +0.1,100%,0%,4.4,5.6,-1.2,-1.2,0,0.7,1,d +4.4,d +0.1,r +1.7
+analytical group,1,no,no,live*,no,-1.1,0.7,c+,d +0.1,100%,0%,4,5.2,-1.2,-1.1,0,0.7,1,d +4.0,d +0.1,d +3.0
+gordon s. black corp.,2,no,no,live*,no,-0.3,0.7,c+,r +0.4,100%,50%,6.3,5.2,1.1,-0.3,0,0.7,2,r +6.3,r +0.4,r +1.7
+onmessage inc.,6,no,yes,live,no,2.7,0.7,c+,r +1.1,67%,33%,9.1,6,3.2,2.7,0.4,0.7,6,r +6.6,r +1.1,r +3.6
+ohio state university,1,no,no,live*,no,-1,0.7,c+,r +0.1,100%,0%,3.7,4.9,-1.2,-1,0,0.7,1,r +3.7,r +0.1,r +7.3
+wick communications,1,no,no,live*,no,-0.9,0.7,c+,d +0.1,100%,0%,2.8,6,-3.2,-0.9,0,0.7,1,d +2.8,d +0.1,d +4.0
+hamilton campaigns,8,no,yes,live,no,2.2,0.7,c+,d +1.5,56%,38%,7,5.6,1.4,2.2,0.5,0.7,8,d +7.0,d +1.5,d +5.4
+opinion savvy/insideradvantage,116,yes,no,ivr/online,no,0.7,0.7,c+,d +1.1,70%,34%,7.5,6.9,0.6,0.7,0.5,0.7,40,d +1.9,d +1.1,d +0.2
+hellenthal & associates,5,no,yes,live,no,3.1,0.7,c+,d +0.4,40%,40%,8.2,6.2,2,3.1,0.4,0.7,3,d +4.4,d +0.4,d +1.2
+market trends pacific,1,no,no,live*,no,-0.8,0.7,c+,d +0.1,50%,0%,4.6,5.5,-0.9,-0.8,0,0.7,1,d +4.6,d +0.1,d +2.5
+20/20 insight,3,no,no,ivr,no,0,0.7,c+,d +0.0,67%,33%,8.9,5.6,3.3,0,0,0.7,2,d +0.2,d +0.0,d +2.0
+asa marketing group,1,no,no,live*,no,-0.7,0.7,c+,d +0.2,100%,0%,5.5,5.1,0.5,-0.7,0,0.7,1,d +5.5,d +0.2,
+columbus dispatch,20,no,no,mail,no,0.3,0.7,c+,d +1.3,93%,45%,4.9,4.6,0.3,0.3,0.1,0.7,17,d +3.6,d +1.3,d +3.4
+university of iowa,3,no,yes,live,no,4.8,0.7,c+,r +0.2,67%,33%,15.9,7.2,8.7,4.8,0.4,0.7,1,r +6.6,r +0.2,r +2.8
+rice university,2,no,no,live*,no,0,0.7,c+,d +0.4,100%,0%,5.9,5.1,0.8,0,0,0.7,2,d +5.9,d +0.4,d +0.6
+gravis marketing,108,no,no,ivr/online,no,0.3,0.7,c+,d +0.6,67%,32%,5.2,5,0.3,0.3,0.3,0.7,82,d +0.9,d +0.6,r +0.9
+star tribune,13,no,yes,live,no,1.7,0.7,c+,d +1.5,46%,38%,6.3,4.5,1.8,1.7,0.5,0.7,11,d +5.5,d +1.5,d +3.9
+marbleport,2,no,no,ivr,no,0.2,0.7,c+,r +0.3,100%,0%,5.6,4.5,1.1,0.2,0,0.7,2,r +5.6,r +0.3,r +4.4
+change research,7,no,no,online,no,0.3,0.7,c+,r +0.8,57%,43%,4.9,4.3,0.6,0.3,0.1,0.7,7,r +4.2,r +0.8,d +0.0
+cromer group,1,no,no,live*,no,0.3,0.7,c+,r +0.1,100%,0%,3.9,5.5,-1.6,0.3,0,0.7,1,r +3.9,r +0.1,r +3.8
+liberty opinion research,1,no,no,ivr,no,0.4,0.7,c+,,100%,100%,5.7,7.5,-1.8,0.4,0,0.7,0,,,
+people's pundit daily,3,no,no,online,yes,0.4,0.7,f,r +0.3,33%,33%,3,3.2,-0.2,0.4,0,0.7,3,r +3.0,r +0.3,r +4.8
+zimmerman & associates/marketing intelligence,3,no,no,live*,no,0.4,0.7,c+,d +0.3,100%,0%,4.7,5.5,-0.8,0.4,0,0.7,3,d +3.2,d +0.3,d +0.6
+rossman group,1,no,no,ivr,no,0.5,0.7,c+,d +0.1,100%,0%,4.2,6,-1.7,0.5,0,0.7,1,d +4.2,d +0.1,d +4.7
+strategic services,1,no,no,live*,no,0.5,0.7,c+,d +0.2,0%,0%,5.5,5.8,-0.3,0.5,0,0.7,1,d +5.5,d +0.2,d +2.0
+western kentucky university,5,no,yes,live,no,3.4,0.7,c+,d +1.1,80%,80%,11.1,5.8,5.3,3.4,0.5,0.7,4,d +9.2,d +1.1,r +0.1
+kimball political consulting,4,no,yes,live,no,4.1,0.7,c+,r +1.0,75%,75%,8.1,4.6,3.5,4.1,0.5,0.7,4,r +8.1,r +1.0,r +4.5
+magellan strategies,14,no,no,ivr/live,no,0.4,0.7,c+,r +0.5,93%,43%,7.3,5.9,1.3,0.4,0.1,0.7,8,r +2.5,r +0.5,r +4.8
+becker institute,3,no,no,live*,no,0.5,0.8,c+,d +0.7,67%,67%,7.6,6,1.6,0.5,0,0.8,3,d +7.6,d +0.7,d +0.8
+west virginia research center,2,no,no,live*,no,0.6,0.8,c+,d +0.4,50%,0%,6.5,5.3,1.1,0.6,0,0.8,2,d +6.5,d +0.4,d +2.8
+researchnow,2,no,no,online,no,0.7,0.8,c+,,100%,50%,9.4,8.3,1.1,0.7,0,0.8,0,,,
+hampton university,4,no,yes,live,no,4.2,0.8,c+,r +0.7,50%,50%,7.5,4.5,3,4.2,0.5,0.8,4,r +5.8,r +0.7,r +6.7
+harvard university,1,no,no,live*,no,1,0.8,c+,d +0.2,0%,0%,6.9,5.7,1.2,1,0,0.8,1,d +6.9,d +0.2,d +1.5
+r.l. repass & partners,1,no,no,online/live,no,1.1,0.8,c+,,100%,100%,11.2,8.7,2.4,1.1,0,0.8,0,,,
+research america inc.,2,no,yes,live,no,8,0.8,c+,,100%,50%,20.7,8.1,12.6,8,0.5,0.8,0,,,
+global strategy group,22,no,yes,live,no,1.5,0.8,c+,d +2.0,68%,23%,6.9,5.8,1.1,1.5,0.6,0.8,22,d +4.6,d +2.0,d +5.1
+teleresearch corporation,1,no,no,ivr,no,2.1,0.8,c+,,100%,100%,8.6,7.8,0.8,2.1,0.1,0.8,0,,,
+opinion consultants,2,no,no,live*,no,1.2,0.8,c+,r +0.4,100%,50%,6.5,5.1,1.4,1.2,0.1,0.8,2,r +6.5,r +0.4,r +5.4
+independent market research,2,no,no,live*,no,1.4,0.8,c+,d +0.3,100%,50%,5.7,5.3,0.5,1.4,0.1,0.8,2,d +5.3,d +0.3,d +4.9
+public strategies inc.,6,no,no,live*,no,0.7,0.8,c+,,100%,33%,7.9,8.1,-0.2,0.7,0.1,0.8,0,,,
+crosstarget,2,no,no,ivr,no,1.5,0.8,c+,r +0.5,100%,50%,7.7,4.8,3,1.5,0.1,0.8,2,r +7.7,r +0.5,r +13.3
+imge insights,1,no,no,ivr/live,no,2.6,0.8,c+,r +0.3,100%,100%,7.9,4.5,3.4,2.6,0.1,0.8,1,r +7.9,r +0.3,r +2.3
+university of georgia,1,no,no,live*,no,2.6,0.8,c+,r +0.3,100%,100%,9.8,6,3.8,2.6,0.1,0.8,1,r +9.8,r +0.3,r +0.8
+minnesota state university moorhead,4,no,no,live*,no,1,0.8,c+,d +0.5,100%,50%,9.3,5.8,3.4,1,0.1,0.8,3,d +5.9,d +0.5,
+harris interactive,135,yes,no,online,no,0.8,0.8,c+,r +1.5,86%,53%,5.5,3.8,1.7,0.8,0.7,0.8,135,r +1.9,r +1.5,d +0.9
+great lakes strategies group,1,no,no,ivr,no,2.9,0.8,c+,r +0.2,0%,100%,7.6,5.1,2.5,2.9,0.1,0.8,1,r +7.6,r +0.2,r +10.0
+a&a research,1,no,no,live*,no,3.1,0.8,c,r +0.3,0%,100%,10.1,5.9,4.2,3.1,0.1,0.8,1,r +10.1,r +0.3,
+ron lester and associates,1,no,no,live*,no,3.1,0.8,c,,100%,100%,18.9,7.9,11,3.1,0.1,0.8,0,,,
+lycoming college,3,no,no,live*,no,1.4,0.8,c,d +0.7,67%,33%,7.3,6.1,1.2,1.4,0.1,0.8,3,d +7.3,d +0.7,d +6.3
+tmr research,2,no,no,live*,no,1.9,0.8,c,d +0.5,0%,50%,7.8,5.5,2.3,1.9,0.1,0.8,2,d +7.8,d +0.5,d +6.7
+illinois wesleyan university,3,no,no,live*,no,1.4,0.8,c,r +0.7,100%,33%,8.2,5.8,2.4,1.4,0.1,0.8,3,r +8.2,r +0.7,r +5.9
+raba research,2,no,no,ivr/online/live,no,2,0.8,c,d +0.2,100%,50%,5.3,5.6,-0.3,2,0.1,0.8,1,d +6.9,d +0.2,d +2.0
+trafalgar group,27,no,no,ivr/online/live,no,0.6,0.8,c,r +0.3,85%,56%,6.3,5.3,1,0.6,0.3,0.8,15,r +0.8,r +0.3,r +3.1
+southern opinion research,1,no,no,live*,no,3.7,0.8,c,d +0.3,100%,100%,9.4,5.5,3.9,3.7,0.1,0.8,1,d +9.4,d +0.3,d +13.0
+polling company/global strategy group (hotline bullseye),3,no,no,live*,no,1.6,0.8,c,r +0.4,33%,33%,4.6,3.7,0.8,1.6,0.1,0.8,3,r +4.6,r +0.4,r +3.1
+decision forecasting,3,no,no,live*,no,1.6,0.8,c,r +0.1,100%,67%,8.1,4.7,3.4,1.6,0.1,0.8,3,r +1.4,r +0.1,d +0.5
+strategy research,1,no,no,ivr,no,3.9,0.9,c,r +0.3,0%,100%,8.6,4.3,4.4,3.9,0.1,0.9,1,r +8.6,r +0.3,r +4.7
+tulsa surveys,1,no,no,live*,no,4,0.9,c,r +0.4,100%,100%,11.9,5.4,6.5,4,0.1,0.9,1,r +11.9,r +0.4,
+new frontier strategy,1,no,no,ivr,no,4,0.9,c,,0%,100%,21.6,7.9,13.8,4,0.1,0.9,0,,,
+california state university, bakersfield,1,no,no,live*,no,4,0.9,c,r +0.3,0%,100%,9.9,6.1,3.7,4,0.1,0.9,1,r +9.9,r +0.3,r +14.0
+marketing research institute,1,no,no,live*,no,4,0.9,c,r +0.2,0%,100%,7.4,5.4,2,4,0.1,0.9,1,r +7.4,r +0.2,r +7.3
+craciun research group,1,no,yes,live,no,17.3,0.9,c,d +0.6,0%,100%,18.7,5.2,13.6,17.3,0.6,0.9,1,d +18.7,d +0.6,d +11.3
+ivan moore research,5,no,yes,live,no,4.3,0.9,c,d +1.3,40%,80%,9.4,5.6,3.8,4.3,0.6,0.9,5,d +9.4,d +1.3,d +5.2
+targetsmart/william & mary,3,no,no,online/live,no,1.8,0.9,c,d +0.5,67%,33%,5.3,4.3,1,1.8,0.2,0.9,3,d +5.3,d +0.5,d +1.7
+sms research & marketing services inc.,1,no,no,live*,no,4.4,0.9,c,r +0.3,0%,100%,9.8,4.5,5.2,4.4,0.1,0.9,1,r +9.8,r +0.3,r +0.3
+target insyght,1,no,no,ivr,no,4.8,0.9,c,,100%,100%,15.4,8.5,6.9,4.8,0.2,0.9,0,,,
+glascock group,1,no,no,ivr,no,4.8,0.9,c,r +0.4,0%,100%,12.1,5.6,6.5,4.8,0.2,0.9,1,r +12.1,r +0.4,
+usc dornsife/la times,3,no,no,online,no,2,0.9,c,r +0.4,33%,67%,4.1,3.2,0.9,2,0.2,0.9,3,r +4.1,r +0.4,r +5.9
+zata3,2,no,no,ivr,no,2.8,0.9,c,r +0.2,100%,50%,10.2,5.9,4.2,2.8,0.2,0.9,2,r +4.0,r +0.2,d +0.0
+maine people's resource center,8,no,no,ivr/online,no,1.1,0.9,c,d +0.3,88%,25%,7,5,2,1.1,0.2,0.9,7,d +1.7,d +0.3,r +2.0
+gapundit.com,2,no,no,ivr,no,2.9,0.9,c,d +0.5,25%,100%,8.3,5.3,3,2.9,0.2,0.9,2,d +8.3,d +0.5,d +3.0
+arthur j. finkelstein & associates,1,no,no,live*,no,5.5,0.9,c,r +0.4,0%,100%,13.7,6.8,6.9,5.5,0.2,0.9,1,r +13.7,r +0.4,
+big ten,10,no,no,live*,no,1,0.9,c,d +1.1,100%,20%,4.8,4.7,0.2,1,0.3,0.9,10,d +4.5,d +1.1,d +5.5
+gcr & associates,1,no,no,ivr,no,5.9,0.9,c,,100%,100%,18.3,8.4,10,5.9,0.2,0.9,0,,,
+psi,3,no,no,live*,no,2.3,0.9,c,r +0.1,67%,67%,12.5,7.4,5.1,2.3,0.2,0.9,1,r +3.3,r +0.1,r +4.0
+ccadvertising,30,no,yes,live,no,1.5,0.9,c,r +2.5,88%,63%,7.1,5.2,1.9,1.5,0.8,0.9,30,r +5.1,r +2.5,r +3.2
+anzalone liszt grove research,11,no,yes,live,no,2.7,0.9,c,d +1.4,55%,36%,7.6,6,1.6,2.7,0.7,0.9,11,d +5.1,d +1.4,d +7.7
+the polling company inc.,7,no,no,online/live,no,1.4,0.9,c,r +0.9,71%,57%,6.2,5.2,1,1.4,0.3,0.9,7,r +4.8,r +0.9,r +3.5
+momentum analysis,3,no,yes,live,no,7.3,0.9,c,d +0.5,33%,100%,13.7,6.1,7.6,7.3,0.7,0.9,3,d +5.7,d +0.5,d +2.8
+marketaide services inc.,1,no,no,live*,no,6.5,0.9,c,d +0.4,100%,100%,11.2,6.1,5.1,6.5,0.2,0.9,1,d +11.2,d +0.4,d +9.5
+saguaro strategies,2,no,no,online,no,3.6,0.9,c,d +0.3,0%,100%,5,3.5,1.6,3.6,0.2,0.9,2,d +5.0,d +0.3,d +4.1
+bannon communications,2,no,no,live*,no,3.7,1,c,d +0.6,100%,50%,10.4,6.2,4.1,3.7,0.2,1,2,d +10.4,d +0.6,d +8.3
+mcculloch research & polling,4,no,no,live*,no,2.3,1,c,r +0.6,75%,50%,7,4.4,2.7,2.3,0.3,1,4,r +5.5,r +0.6,r +3.7
+we ask america,52,no,no,ivr/live,no,0.7,1,c,r +0.9,83%,44%,7,5.7,1.3,0.7,0.5,1,33,r +1.8,r +0.9,r +2.4
+remington research group,32,no,no,ivr/live,no,0.8,1,c,d +1.1,67%,31%,4.9,3.7,1.2,0.8,0.4,1,32,d +2.1,d +1.1,r +1.9
+anderson group,1,no,no,live*,no,7.6,1,c,r +0.4,0%,100%,10.9,4.4,6.5,7.6,0.2,1,1,r +10.9,r +0.4,r +5.0
+critical insights,17,no,yes,live,no,2.2,1,c,d +0.3,88%,35%,8.6,6,2.7,2.2,0.8,1,15,d +0.9,d +0.3,r +1.8
+zogby interactive/jz analytics,464,no,no,online,no,0.6,1,c,r +0.9,78%,28%,5.6,5.4,0.2,0.6,0.6,1,364,r +1.0,r +0.9,d +0.0
+datamar,8,no,no,ivr,no,1.5,1,c,r +0.4,69%,38%,6.3,5.6,0.7,1.5,0.3,1,5,r +2.9,r +0.4,r +3.3
+university of new orleans,10,no,no,ivr,no,1.4,1,c,r +0.3,80%,30%,6.8,5.5,1.3,1.4,0.3,1,9,r +1.2,r +0.3,r +0.2
+southeastern louisiana university,8,no,no,live*,no,1.7,1,c,d +0.3,88%,38%,6.6,5.2,1.4,1.7,0.3,1,8,d +1.4,d +0.3,r +0.7
+schapiro group,2,no,no,live*,no,4.9,1,c,,100%,50%,20,8.3,11.7,4.9,0.3,1,0,,,
+google consumer surveys,24,yes,no,online,no,1.9,1,c,r +0.1,92%,38%,5.3,3.9,1.5,1.9,0.9,1,24,r +0.2,r +0.1,r +0.7
+greg smith and associates,5,no,no,live*,no,2.4,1,c,d +1.2,60%,40%,8.5,5.7,2.8,2.4,0.3,1,5,d +8.5,d +1.2,d +3.7
+abacus associates,2,no,no,live*,no,5.1,1,c,r +0.0,50%,100%,12.1,6.1,5.9,5.1,0.3,1,2,r +0.5,r +0.0,d +6.5
+targetpoint,3,no,no,ivr/live,no,3.8,1,c,,83%,67%,14,8,6,3.8,0.3,1,0,,,
+zia poll,3,no,no,ivr,no,4,1.1,c,r +0.4,100%,33%,4.9,3,1.9,4,0.4,1.1,3,r +4.9,r +0.4,r +3.3
+rainmaker media group,1,no,no,live*,no,10.8,1.1,c,d +0.4,100%,100%,12.7,4.9,7.8,10.8,0.3,1.1,1,d +12.7,d +0.4,d +8.6
+consumer logic,4,no,no,live*,no,3.3,1.1,c,d +0.6,50%,50%,8.8,5.5,3.2,3.3,0.4,1.1,4,d +5.4,d +0.6,d +2.3
+clout research/wenzel strategies,12,no,yes,live,no,3.1,1.1,c,r +1.7,50%,50%,7.7,4.9,2.7,3.1,0.9,1.1,11,r +6.3,r +1.7,r +4.5
+roanoke college,15,yes,yes,live,no,4,1.1,c,d +0.5,77%,60%,8.9,5.7,3.2,4,1.3,1.1,12,d +1.6,d +0.5,d +1.6
+jeffrey stonecash,1,no,no,live*,no,11.4,1.1,c,r +0.6,0%,100%,17.3,5.2,12.1,11.4,0.4,1.1,1,r +17.3,r +0.6,r +16.5
+university of alabama,2,no,no,live*,no,6.2,1.1,c,r +0.8,100%,50%,12,5,7,6.2,0.4,1.1,2,r +12.0,r +0.8,r +7.0
+data west polling,2,no,no,live*,no,6.4,1.1,c-,d +0.8,50%,100%,13.1,6.1,7,6.4,0.4,1.1,2,d +13.1,d +0.8,d +7.5
+ohio university,2,no,no,live*,no,6.6,1.1,c-,d +0.5,50%,50%,8.8,5,3.8,6.6,0.4,1.1,2,d +8.8,d +0.5,d +8.1
+neighbor,1,no,no,live*,no,12.9,1.1,c-,r +0.6,100%,100%,17.1,5.8,11.3,12.9,0.4,1.1,1,r +17.1,r +0.6,r +14.0
+opinion research associates,12,no,yes,live,no,3.3,1.2,c-,d +1.7,71%,33%,7.9,5.5,2.4,3.3,1,1.2,12,d +6.1,d +1.7,d +5.9
+indiana university-purdue university fort wayne,3,no,yes,live,no,10,1.2,c-,,0%,100%,23.5,8.5,15,10,0.9,1.2,0,,,
+baydoun consulting,6,no,no,ivr,no,3.4,1.2,c-,r +1.0,83%,67%,6.8,5.3,1.5,3.4,0.6,1.2,4,r +8.7,r +1.0,r +6.6
+brown university,12,no,yes,live,no,3.6,1.2,c-,r +0.4,83%,58%,11.4,7.1,4.3,3.6,1,1.2,7,r +2.2,r +0.4,r +0.7
+ed renwick/loyola university new orleans,7,no,no,live*,no,3.1,1.3,c-,d +0.3,86%,29%,8.1,5.3,2.8,3.1,0.6,1.3,7,d +1.7,d +0.3,d +2.5
+merriman river group,21,no,no,ivr/live,no,1.6,1.3,c-,r +2.2,81%,48%,7.7,5.3,2.4,1.6,0.7,1.3,20,r +5.5,r +2.2,r +3.4
+mclaughlin & associates,22,no,no,online/live,no,1.6,1.3,c-,r +0.4,77%,23%,5.9,5.4,0.6,1.6,0.7,1.3,22,r +1.0,r +0.4,r +3.9
+optimus,5,no,no,ivr,no,4.2,1.3,c-,r +1.0,60%,100%,11.8,5.8,6,4.2,0.6,1.3,3,r +10.9,r +1.0,r +1.1
+wcia-tv,2,no,no,live*,no,10.1,1.4,c-,r +1.1,100%,100%,18.3,6.2,12.1,10.1,0.6,1.4,2,r +18.3,r +1.1,r +8.8
+marketing workshop,7,no,no,live*,no,3.6,1.4,c-,d +0.3,57%,57%,9.7,5.1,4.6,3.6,0.7,1.4,7,d +1.6,d +0.3,d +0.7
+saint leo university,4,no,no,online,no,5.6,1.4,c-,d +0.9,50%,50%,7.6,4.8,2.9,5.6,0.7,1.4,4,d +7.6,d +0.9,d +5.7
+cpec llc,3,no,no,ivr,no,7.5,1.4,c-,,100%,100%,16.2,7.8,8.4,7.5,0.7,1.4,0,,,
+valley research,6,no,no,live*,no,5,1.5,d+,d +0.4,83%,50%,11.5,4.6,6.9,5,0.8,1.5,6,d +2.4,d +0.4,d +1.4
+riggs research services,1,no,no,live*,no,25.3,1.5,d+,d +1.1,0%,100%,33.7,5.7,28,25.3,0.8,1.5,1,d +33.7,d +1.1,d +29.0
+dane & associates,2,no,no,ivr,no,13.8,1.6,d+,r +1.3,50%,100%,21.2,4.9,16.3,13.8,0.9,1.6,2,r +21.2,r +1.3,r +10.5
+millersville university,5,no,no,live*,no,6.6,1.6,d+,r +1.5,80%,80%,14.1,5.2,8.8,6.6,0.9,1.6,5,r +10.5,r +1.5,r +6.3
+massie & associates,2,no,no,live*,no,14.9,1.7,d+,r +1.5,0%,100%,23.9,6.5,17.4,14.9,0.9,1.7,2,r +23.9,r +1.5,
+brigham young university,4,no,no,online,no,8.9,1.8,d,d +1.9,75%,75%,16.5,7.6,8.9,8.9,1.1,1.8,4,d +16.5,d +1.9,d +16.5
+jayhawk consulting,1,no,no,live*,no,32.7,1.8,d,d +1.4,0%,100%,42.9,5.9,37,32.7,1.1,1.8,1,d +42.9,d +1.4,
+fort hays state university,6,no,yes,live,no,10,1.9,d,r +1.2,67%,50%,22.1,8.3,13.9,10,1.7,1.9,2,r +18.8,r +1.2,r +27.7
+mitchell research & communications,56,no,no,ivr/online,no,2.3,2,d-,d +0.9,59%,39%,8,5.9,2.1,2.3,1.5,2,34,d +1.6,d +0.9,r +0.0
+humphrey institute,10,no,no,live*,no,6.4,2.2,d-,d +0.8,40%,30%,13.1,5.7,7.3,6.4,1.6,2.2,8,d +3.8,d +0.8,d +3.0
+nielson brothers polling,9,no,no,ivr,no,7.1,2.3,d-,d +2.8,89%,67%,12.2,4.9,7.3,7.1,1.6,2.3,9,d +12.2,d +2.8,d +9.9
+surveymonkey,206,no,no,online,no,2.3,2.4,d-,d +4.9,83%,51%,7.5,4.4,3.1,2.3,2,2.4,193,d +5.6,d +4.9,d +3.2
+tcj research,133,no,no,ivr,yes,2.8,2.8,f,r +4.5,59%,49%,6.4,4.5,2,2.8,2.3,2.8,125,r +5.6,r +4.5,r +3.5
